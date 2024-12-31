@@ -5,9 +5,17 @@
 
 # For google colab
 
+Does require google account to run
+
+Simple box in Google colab (interactive model)
+
 https://colab.research.google.com/github/mohankumargupta/build123d-notebooks/blob/dev/colabs/01-build123d-on-colab.ipynb
 
-Does require google account
+SVG Render of 3d model (not interactive)
 
-Just go to Runtime->Run all
+https://colab.research.google.com/github/mohankumargupta/build123d-notebooks/blob/dev/colabs/02-svg-render.ipynb
+
+
+
+
 
