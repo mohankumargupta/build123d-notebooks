@@ -1,9 +1,7 @@
 # Build123d Notebooks
 
 
-# For VSCode
-
-# For google colab
+### For google colab
 
 Does require google account to run
 
@@ -15,6 +13,8 @@ SVG Render of 3d model (not interactive)
 
 https://colab.research.google.com/github/mohankumargupta/build123d-notebooks/blob/dev/colabs/02-svg-render.ipynb
 
+
+### For VSCode
 
 
 
